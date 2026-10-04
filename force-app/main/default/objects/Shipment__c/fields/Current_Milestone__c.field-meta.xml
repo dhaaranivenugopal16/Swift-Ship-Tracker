@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Current_Milestone__c</fullName>
+    <label>Current Milestone</label>
+    <type>Picklist</type><valueSet><valueSetDefinition><sorted>false</sorted><value><fullName>Shipment Creation</fullName><default>true</default><label>Shipment Creation</label></value><value><fullName>Route Assignment</fullName><default>false</default><label>Route Assignment</label></value><value><fullName>Dispatch</fullName><default>false</default><label>Dispatch</label></value><value><fullName>In-Transit Monitoring</fullName><default>false</default><label>In-Transit Monitoring</label></value><value><fullName>Delivery Attempt</fullName><default>false</default><label>Delivery Attempt</label></value><value><fullName>Exception Identification</fullName><default>false</default><label>Exception Identification</label></value><value><fullName>Exception Resolution</fullName><default>false</default><label>Exception Resolution</label></value><value><fullName>Proof of Delivery</fullName><default>false</default><label>Proof of Delivery</label></value><value><fullName>Shipment Completion</fullName><default>false</default><label>Shipment Completion</label></value></valueSetDefinition></valueSet>
+</CustomField>

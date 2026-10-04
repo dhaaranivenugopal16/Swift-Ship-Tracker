@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Confirmation_Type__c</fullName>
+    <label>Confirmation Type</label>
+    <type>Picklist</type><valueSet><valueSetDefinition><sorted>false</sorted><value><fullName>Signature</fullName><default>true</default><label>Signature</label></value><value><fullName>OTP</fullName><default>false</default><label>OTP</label></value><value><fullName>Photo</fullName><default>false</default><label>Photo</label></value><value><fullName>Name Confirmation</fullName><default>false</default><label>Name Confirmation</label></value><value><fullName>Other</fullName><default>false</default><label>Other</label></value></valueSetDefinition></valueSet>
+</CustomField>

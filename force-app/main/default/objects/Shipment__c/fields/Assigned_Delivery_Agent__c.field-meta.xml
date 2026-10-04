@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Assigned_Delivery_Agent__c</fullName>
+    <label>Assigned Delivery Agent</label>
+    <type>Lookup</type><referenceTo>User</referenceTo><relationshipLabel>Assigned Delivery Agent</relationshipLabel><relationshipName>Assigned_Delivery_Agent</relationshipName>
+</CustomField>
